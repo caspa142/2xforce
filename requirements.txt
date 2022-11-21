@@ -1,0 +1,6 @@
+numpy
+Flask==2.2.2
+Flask-BasicAuth==0.2.0
+Flask-Cors==3.0.10
+locust==2.13.0
+
